@@ -1,3 +1,3 @@
 # Resolving-Merge-Conflicts
 
-by Roger Nguyen
+Creating a conflict, Roger Nguyen 2020
